@@ -65,7 +65,7 @@ layers:
   - $$mdi:backspace-reverse-outline$$
   - {t: '`', s: '~'}
   - (
-  - (
+  - )
   - _
   - {t: '=', s: +}
   - {t: '-', s: _}
