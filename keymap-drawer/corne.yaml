@@ -68,7 +68,7 @@ layers:
   - (
   - _
   - {t: '=', s: +}
-  - '-'
+  - {t: '-', s: _}
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - $$mdi:volume-high$$
   - $$mdi:brightness-5$$
