@@ -86,7 +86,7 @@
 
             bindings = <
 &kp ESC    &kp N1           &kp N2          &kp N3        &kp N4        &kp N5             &mmv MOVE_UP     &kp N6           &kp N7           &kp N8           &kp N9           &kp N0    &kp DEL
-&kp GRAVE  &kp LPAR         &kp LPAR        &kp UNDER     &kp EQUAL     &kp -              &mmv MOVE_DOWN   &kp C_VOL_UP     &kp C_BRI_UP     &kp UP           &kp RIGHT        &kp HOME  &kp PG_UP
+&kp GRAVE  &kp LPAR         &kp LPAR        &kp UNDER     &kp EQUAL     &kp MINUS          &mmv MOVE_DOWN   &kp C_VOL_UP     &kp C_BRI_UP     &kp UP           &kp RIGHT        &kp HOME  &kp PG_UP
 &kp LSHFT  &kp LBKT         &kp RBKT        &kp LBRC      &kp RBRC      &kp PLUS           &mmv MOVE_LEFT   &kp C_VOL_DN     &kp C_BRI_DN     &rgb_ug RGB_BRI  &rgb_ug RGB_BRD  &kp BSLH   &kp PG_DN
                             &kp C_MUTE      &kp LCTRL     &kp LALT      &kp LGUI           &mmv MOVE_RIGHT  &trans           &trans           &trans
                                                                                            &mkp LCLK
